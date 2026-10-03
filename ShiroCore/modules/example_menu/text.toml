@@ -1,0 +1,11 @@
+message = "ExampleMenu - пример меню для ShiroCore."
+
+
+[input]
+error = "Ошибка ввода! Ожидается ввод целого числа."
+message = "Введите номер: "
+
+
+[options]
+message = "Доступные модули:"
+option = "{n} {option}"

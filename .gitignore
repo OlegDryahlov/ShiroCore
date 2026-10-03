@@ -1,0 +1,21 @@
+# Файл Poetry
+/poetry.lock
+
+# Мой скрипт для быстрого запуска приложения
+# Буквально содержит: poetry install; poetry run python3 ./ShiroCore
+/run.sh
+
+# Кэш Python
+__pycache__
+
+# Flake8 для проверки кода на соответствие PEP8
+/.flake8
+
+# Автогенерируемый файл
+/ShiroCore/modules/__init__.py
+
+# Файлы логов приложения
+/logs
+
+# Виртуальное окружение
+/.venv

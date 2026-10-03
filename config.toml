@@ -1,0 +1,6 @@
+[logging]
+console = false
+files = ["logs", "logs_ShiroCore.txt"]
+format = "{time:HH:mm:ss} | {level: <8} | {module: <24} | {message}"
+level = "TRACE"
+rotation = "24h"
